@@ -10,6 +10,8 @@
 
 ![KSW1218's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSW1218&show_icons=true&hide_title=true&theme=neon)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KSW1218)](https://github.com/KSW1218/github-readme-stats)
+
 
 
 
