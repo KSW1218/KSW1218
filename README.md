@@ -1,4 +1,7 @@
-## About me
+## Welcome to KSW1218's github
+
+# Who is me?
+
 - _A rudiments developer who tries to read trends and turns ideas into reality through AI and coding._
 
 
