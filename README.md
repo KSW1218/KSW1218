@@ -7,6 +7,5 @@
 
 - GitHub Stats Card
 
-![KSW1218's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSW1218&show=Total Stars, Repositories, Commits, Followers)
-
+![KSW1218's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSW1218)
 
