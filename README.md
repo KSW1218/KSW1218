@@ -1,10 +1,15 @@
-## About KSW1218
-- _A developer who reads trends and turns ideas into reality through AI and coding._
+## About me
+- _A rudiments developer who tries to read trends and turns ideas into reality through AI and coding._
 
 
+## my works
 
-## KSW1218's statistics
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KSW1218&repo=about-ai)](https://github.com/KSW1218/about-ai)
+
+## my statistics
 
 - GitHub Stats Card
 
 ![KSW1218's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSW1218&show_icons=true&hide_title=true&theme=neon)
+
+
