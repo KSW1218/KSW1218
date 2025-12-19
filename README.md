@@ -4,7 +4,7 @@
 
 ## my works
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KSW1218&repo=about-ai&show-owner)](https://github.com/KSW1218/about-ai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KSW1218&repo=about-ai&show_owner=true)](https://github.com/KSW1218/about-ai)
 
 ## my statistics
 
