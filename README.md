@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=3A4A51,&height=300&section=header&text=Welcome%20to%20KSW1218's%20github&animation=scaleIn&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=3A4A51,&height=300&section=header&text=Welcome%20to%20KSW1218's%20github&fontColor=d6ace6&animation=scaleIn&fontSize=50)
 
 ## Who is KSW1218?
 
