@@ -1,6 +1,5 @@
-# About KSW1218
-
-## _A developer who reads trends and turns ideas into reality through AI and coding._
+## About KSW1218
+- _A developer who reads trends and turns ideas into reality through AI and coding._
 
 
 
