@@ -11,7 +11,7 @@
 
 ## Dev Log
 
-[![Gist](https://img.shields.io/badge/GIST-CODE_ARCHIVE-00ffcc?style=for-the-badge&logo=github)](https://gist.github.com/KSW1218)
+[![Gist](https://img.shields.io/badge/Gist-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/KSW1218)
 
 ## My statistics
 
