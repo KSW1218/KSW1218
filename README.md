@@ -15,7 +15,7 @@
 
 ## Dev Log
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@아이디)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@dev1218-nun)
 [![Gist](https://img.shields.io/badge/Gist-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/KSW1218)
 
 
