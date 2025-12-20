@@ -1,9 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/8b98a749-b04b-4970-8a6f-3dab42982a6d)
 
-## Who is KSW1218?
-
-- _A rudiments developer who tries to read trends and turns ideas into reality through AI and coding._
-
 
 ## My works
 
