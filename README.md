@@ -5,11 +5,15 @@
 - _A rudiments developer who tries to read trends and turns ideas into reality through AI and coding._
 
 
-## my works
+## My works
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KSW1218&repo=about-ai&show_owner=true)](https://github.com/KSW1218/about-ai)
 
-## my statistics
+## Dev Log
+
+[![Gist](https://img.shields.io/badge/GIST-CODE_ARCHIVE-00ffcc?style=for-the-badge&logo=github)](https://gist.github.com/KSW1218)
+
+## My statistics
 
 ![KSW1218's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSW1218&show_icons=true&hide_title=true&theme=neon)
 
