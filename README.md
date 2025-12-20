@@ -11,12 +11,7 @@
 
 ## Dev Log
 
-<a href="https://velog.io/@nun-eo">
-  <img src="https://velog.velcdn.com/images/velog/logo.png"
-       width="40"
-       alt="Velog Blog" />
-</a>
-
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@아이디)
 [![Gist](https://img.shields.io/badge/Gist-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/KSW1218)
 
 ## My statistics
